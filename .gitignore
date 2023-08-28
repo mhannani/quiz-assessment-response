@@ -1,0 +1,29 @@
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore build output
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+.ipynb_checkpoints
+
+# Ignore package manager directories
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Ignore environment files
+.env
+venv
+
+# Ignore logs
+*.log
+logs/
+log/

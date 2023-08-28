@@ -1,0 +1,8 @@
+{
+    "confusion_matrix": {
+        "true_positive": 450,
+        "true_negative": 1118,
+        "false_positive": 434,
+        "false_negative": 111
+    }
+}
